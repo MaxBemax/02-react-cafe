@@ -1,5 +1,4 @@
-import type Votes from '../../types/votes';
-import type { VoteType } from '../../types/votes';
+import type { VoteType, Votes } from '../../types/votes';
 import CafeInfo from '../CafeInfo/CafeInfo';
 import VoteOptions from '../VoteOptions/VoteOptions';
 import css from './App.module.css';
